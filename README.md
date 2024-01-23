@@ -1,6 +1,6 @@
 # Junior Fullstack-blogWebsite:
 
-This is my small, complete project in which I developed a blog, trying to use my knowledge and taking my first steps in web development.  :tw-1f4dd:
+This is my small, complete project in which I developed a blog, trying to use my knowledge and taking my first steps in web development. 
 
 Languages used: :
 ======
