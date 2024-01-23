@@ -1,8 +1,8 @@
-# Junior Fullstack-blogWebsite :tw-1f4bb:
+# Junior Fullstack-blogWebsite:
 
 This is my small, complete project in which I developed a blog, trying to use my knowledge and taking my first steps in web development.  :tw-1f4dd:
 
-Languages used: :tw-1f527:
+Languages used: :
 ======
 
 Front-end  | Back-end
@@ -11,7 +11,7 @@ htmll  | php
 cssl  | mySql 
 javascript |
 
-What can this do? :tw-1f44d:
+What can this do? :
 ======
 
 + Log up users like regular users and admin users.
@@ -24,7 +24,7 @@ What can this do? :tw-1f44d:
 
 + Saved all images that users upload in a folder inside of the proyect.
 
-:tw-203c: Alert in:
+ Alert in:
  ====
 
 + **Being developed in VSCode, use extensions like Go Live and PHP Server.**
